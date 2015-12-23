@@ -24,7 +24,7 @@ None.
 
     - hosts: db-servers
       roles:
-        - { role: geerlingguy.nfs }
+        - { role: binarytemple.nfs }
 
 ## License
 
